@@ -659,12 +659,11 @@ def main() -> int:
     general_chart = create_general_chart(summary)
     education_chart = create_education_chart(summary)
 
-    analytical_path = RESULTS_DIR / "analytical_households_question_3.parquet"
     summary_path = RESULTS_DIR / "tenure_gap_summary.csv"
     gaps_path = RESULTS_DIR / "tenure_gap_differences.csv"
     validation_path = RESULTS_DIR / "validation.json"
 
-    analytical.to_parquet(analytical_path, index=False)
+    # Only summaries and figures are needed by the final fact sheet.
     summary.to_csv(summary_path, index=False, encoding="utf-8-sig")
     gaps.to_csv(gaps_path, index=False, encoding="utf-8-sig")
 

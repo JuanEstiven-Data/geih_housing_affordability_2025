@@ -588,7 +588,6 @@ def main() -> int:
     }
 
     outputs = {
-        "analytical_output": RESULTS_DIR / "analytical_households_question_2.parquet",
         "coverage_output": RESULTS_DIR / "universe_coverage.csv",
         "threshold_output": RESULTS_DIR / "burden_threshold_summary.csv",
         "residual_output": RESULTS_DIR / "residual_income_summary.csv",
@@ -596,7 +595,7 @@ def main() -> int:
         "negative_audit_output": RESULTS_DIR / "negative_residual_audit.csv",
         "negative_records_output": RESULTS_DIR / "negative_residual_records_audit.csv",
     }
-    data.to_parquet(outputs["analytical_output"], index=False)
+    # No later step consumes this household-level frame; keep it in memory.
     coverage.to_csv(outputs["coverage_output"], index=False, encoding="utf-8-sig")
     thresholds.to_csv(outputs["threshold_output"], index=False, encoding="utf-8-sig")
     residuals.to_csv(outputs["residual_output"], index=False, encoding="utf-8-sig")

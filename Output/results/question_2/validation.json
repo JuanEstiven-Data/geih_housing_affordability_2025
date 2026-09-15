@@ -41,7 +41,6 @@
     "scope": "Reconstructed income, recorded payment, household size and negative sign; not respondent accuracy."
   },
   "outputs": {
-    "analytical_output": "Output\\results\\question_2\\analytical_households_question_2.parquet",
     "coverage_output": "Output\\results\\question_2\\universe_coverage.csv",
     "threshold_output": "Output\\results\\question_2\\burden_threshold_summary.csv",
     "residual_output": "Output\\results\\question_2\\residual_income_summary.csv",

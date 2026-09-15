@@ -195,6 +195,15 @@ los montos. Los valores extremos conservados se concilian con las bases
 intermedias; ello verifica el procesamiento, no la exactitud de lo declarado.
 Las limitaciones vigentes se registran en MD-13, MD-15 y MD-18 de la bitácora.
 
+La entrega conserva las dos bases intermedias y la base analítica de la pregunta
+1, necesaria para ejecutar la pregunta 2. Las bases analíticas de las preguntas
+2 y 3 se calculan en memoria; no se guardan copias que ningún paso posterior
+utiliza. Se conservan las tablas, gráficos, fichas y controles reproducibles como
+resultados y evidencia del trabajo. `Raw/`, `.venv/`, la documentación y la
+configuración de Git se mantienen para preservar las fuentes y el entorno local.
+Los archivos separados para revisión están en `_REMOVE_AFTER_REVIEW/`, excluido
+de Git. La depuración no modifica los indicadores ni las decisiones metodológicas.
+
 ## Uso de inteligencia artificial
 
 Se utilizó OpenAI Codex para revisar el diccionario, escribir y depurar el
