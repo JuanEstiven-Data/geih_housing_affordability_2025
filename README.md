@@ -5,11 +5,11 @@ Integrada de Hogares (GEIH) de 2025.
 
 ## Preguntas asignadas
 
-1. **Camilo Villota:** ¿Cuánto destinan los hogares a vivienda y servicios
+1. **Juan Estiven:** ¿Cuánto destinan los hogares a vivienda y servicios
    públicos, y qué proporción representa frente a sus ingresos?
-2. **Jostyn Saldarriaga:** ¿Cuántos hogares presentan una carga habitacional
+2. **Camilo:** ¿Cuántos hogares presentan una carga habitacional
    superior al 30 % o al 50 %, y cuánto ingreso residual per cápita les queda?
-3. **Juan Estiven Silva:** ¿Qué brechas existen entre arrendatarios,
+3. **Sol:** ¿Qué brechas existen entre arrendatarios,
    propietarios que pagan su vivienda y propietarios con vivienda pagada?
 
 Las tres preguntas cuentan con código, resultados, visualización y ficha.
