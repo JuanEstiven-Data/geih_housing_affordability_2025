@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "schema_source": "sav_metadata",
+  "expected_folders": 24,
+  "existing_folders": 24,
+  "expected_files": 192,
+  "unique_expected_files": 192,
+  "required_sav_files": 60,
+  "located_required_sav_files": 60,
+  "schema_checks": 60,
+  "passed_schema_checks": 60,
+  "inventory_report": "Output\\results\\validation\\source_file_inventory.csv",
+  "schema_report": "Output\\results\\validation\\source_schema_audit.csv"
+}

@@ -1,0 +1,9 @@
+﻿geography,tenure_group,sample_household_months,average_monthly_households,valid_payment_sample,valid_burden_sample,payment_data_status,q1_effective_payment_cop,median_effective_payment_cop,q3_effective_payment_cop,q1_effective_burden_percent,median_effective_burden_percent,q3_effective_burden_percent
+Cali A.M.,Propietarios con vivienda pagada,2708,216058.08331869,2708,2490,Disponible con las restricciones documentadas,0.0,0.0,0.0,0.0,0.0,0.0
+Cali A.M.,Propietarios que pagan su vivienda,558,38565.33988442925,539,516,Disponible con las restricciones documentadas,540000.0,900000.0,1527000.0,11.097560975609756,18.133333333333333,28.985507246376812
+Cali A.M.,Arrendatarios,5279,452653.667017733,5265,5046,Disponible con las restricciones documentadas,500000.0,600000.0,820000.0,17.973856209150327,27.272727272727273,40.90909090909091
+Cali A.M.,Otras formas de tenencia,1605,127988.40977887125,0,0,n. d.,,,,,,
+Colombia (incluye Cali A.M.),Propietarios con vivienda pagada,89283,5434131.232222078,89283,86965,Disponible con las restricciones documentadas,0.0,0.0,0.0,0.0,0.0,0.0
+Colombia (incluye Cali A.M.),Propietarios que pagan su vivienda,9435,809928.3585143021,9322,9108,Disponible con las restricciones documentadas,500000.0,800000.0,1500000.0,12.658227848101266,20.333333333333332,33.9622641509434
+Colombia (incluye Cali A.M.),Arrendatarios,119414,7477928.633520287,119251,117026,Disponible con las restricciones documentadas,400000.0,600000.0,800000.0,17.647058823529413,26.704146170063247,40.62681369704005
+Colombia (incluye Cali A.M.),Otras formas de tenencia,74810,4652582.707580334,0,0,n. d.,,,,,,

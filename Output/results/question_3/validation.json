@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "national_sample_household_months": 292942,
+  "cali_sample_household_months": 10150,
+  "households_without_head": 0,
+  "education_not_classified": 2,
+  "income_incomplete_households": 3305,
+  "cali_income_incomplete_households": 440,
+  "zero_or_negative_income_households": 4668,
+  "other_tenure_effective_payment_unobservable": 74810,
+  "mortgage_nonresponse_codes_98_99": 113,
+  "rent_nonresponse_codes_98_99": 163,
+  "estimated_rent_nonresponse_codes_98_99": 1801,
+  "missing_effective_payment_for_payers": 276,
+  "summary_rows": 40,
+  "small_education_tenure_cells_under_100": [
+    {
+      "geography": "Cali A.M.",
+      "education_group": "Primaria o menos",
+      "tenure_group": "Propietarios que pagan su vivienda",
+      "sample_household_months": 44
+    },
+    {
+      "geography": "Cali A.M.",
+      "education_group": "Postgrado",
+      "tenure_group": "Propietarios que pagan su vivienda",
+      "sample_household_months": 94
+    },
+    {
+      "geography": "Cali A.M.",
+      "education_group": "Postgrado",
+      "tenure_group": "Otras formas de tenencia",
+      "sample_household_months": 39
+    }
+  ],
+  "summary_statistics": "weighted Q1, median and Q3",
+  "income_definition": "INGLABO + P7422S1 + monthly P7500 amounts + monthly equivalent of P7510 annual amounts",
+  "effective_payment_definition": "P5140 for tenants, P5100 for homeowners paying, zero for fully paid homeowners, and unobservable for other tenure arrangements",
+  "equivalent_cost_definition": "P5140 for tenants and P5130 estimated rent for all other tenure groups",
+  "education_definition": "P3042 reported by the household head (P6050 = 1)",
+  "services_included": false,
+  "services_limitation": "The selected GEIH modules do not report monetary utility payments.",
+  "summary_output": "Output\\results\\question_3\\tenure_gap_summary.csv",
+  "gaps_output": "Output\\results\\question_3\\tenure_gap_differences.csv",
+  "general_chart_output": "Viz\\question_3_tenure_gaps.png",
+  "education_chart_output": "Viz\\question_3_education_gaps.png"
+}

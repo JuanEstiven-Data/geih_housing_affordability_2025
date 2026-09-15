@@ -1,0 +1,101 @@
+﻿geography,education_group,reference_group,comparison_group,metric,unit,reference_value,comparison_value,absolute_gap,relative_gap_percent
+Cali A.M.,General,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,925000.0,1256666.6666666667,-331666.66666666674,-26.392572944297086
+Cali A.M.,General,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,600000.0,0.0,600000.0,
+Cali A.M.,General,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,27.272727272727273,0.0,27.272727272727273,
+Cali A.M.,General,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,27.272727272727273,24.32794063982484,2.944786632902435,12.104545454545459
+Cali A.M.,General,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,925000.0,1690277.7777777778,-765277.7777777778,-45.275267050123254
+Cali A.M.,General,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,600000.0,900000.0,-300000.0,-33.333333333333336
+Cali A.M.,General,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,27.272727272727273,18.133333333333333,9.13939393939394,50.40106951871658
+Cali A.M.,General,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,27.272727272727273,21.62162162162162,5.651105651105652,26.13636363636364
+Cali A.M.,General,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,925000.0,788853.3333333334,136146.66666666663,17.258806030694334
+Cali A.M.,General,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,27.272727272727273,32.432432432432435,-5.159705159705162,-15.909090909090915
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,641166.6666666666,816840.0,-175673.33333333337,-21.506455772652338
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,520000.0,0.0,520000.0,
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,30.76923076923077,0.0,30.76923076923077,
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,30.76923076923077,27.4390243902439,3.330206378986869,12.136752136752145
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,641166.6666666666,711750.0,-70583.33333333337,-9.916871560707182
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,520000.0,450000.0,70000.0,15.555555555555555
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,30.76923076923077,22.68431001890359,8.084920750327178,35.64102564102564
+Cali A.M.,Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,30.76923076923077,23.728813559322035,7.040417209908735,29.670329670329668
+Cali A.M.,Primaria o menos,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,641166.6666666666,683325.0,-42158.33333333337,-6.169587433993104
+Cali A.M.,Primaria o menos,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,30.76923076923077,35.12469265893923,-4.355461889708462,-12.399999999999991
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,762500.0,1141333.3333333333,-378833.33333333326,-33.19217289719626
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,600000.0,0.0,600000.0,
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,28.125,0.0,28.125,
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,28.125,24.709661477637756,3.4153385223622443,13.821875000000004
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,762500.0,1155500.0,-393000.0,-34.01125054089139
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,600000.0,700000.0,-100000.0,-14.285714285714286
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,28.125,19.318338622878432,8.806661377121568,45.58705357142858
+Cali A.M.,Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,28.125,24.638127502309825,3.4868724976901753,14.152343749999998
+Cali A.M.,Secundaria y media,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,762500.0,700000.0,62500.0,8.928571428571429
+Cali A.M.,Secundaria y media,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,28.125,32.432432432432435,-4.307432432432435,-13.281250000000007
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,1400000.0,1866666.6666666667,-466666.66666666674,-25.0
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,770000.0,0.0,770000.0,
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,25.0,0.0,25.0,
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,25.0,23.0430320943351,1.9569679056649,8.492666666666672
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,1400000.0,2000000.0,-600000.0,-30.0
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,770000.0,1000000.0,-230000.0,-23.0
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,25.0,17.601999239419786,7.398000760580214,42.029320987654316
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,25.0,21.67300380228137,3.3269961977186284,15.350877192982441
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,1400000.0,1250000.0,150000.0,12.0
+Cali A.M.,"Técnico, tecnólogo o pregrado",Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,25.0,29.166666666666668,-4.166666666666668,-14.28571428571429
+Cali A.M.,Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,3583333.3333333335,4000000.0,-416666.6666666665,-10.416666666666663
+Cali A.M.,Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,1200000.0,0.0,1200000.0,
+Cali A.M.,Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,16.666666666666668,0.0,16.666666666666668,
+Cali A.M.,Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,16.666666666666668,16.3265306122449,0.34013605442176953,2.0833333333333384
+Cali A.M.,Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,3583333.3333333335,4095833.3333333335,-512500.0,-12.512716174974567
+Cali A.M.,Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,1200000.0,1400000.0,-200000.0,-14.285714285714286
+Cali A.M.,Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,16.666666666666668,16.071428571428573,0.5952380952380949,3.703703703703701
+Cali A.M.,Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,16.666666666666668,16.3265306122449,0.34013605442176953,2.0833333333333384
+Cali A.M.,Postgrado,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,3583333.3333333335,2266666.6666666665,1316666.666666667,58.088235294117666
+Cali A.M.,Postgrado,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,16.666666666666668,25.49019607843137,-8.823529411764703,-34.615384615384606
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,855875.0,836500.0,19375.0,2.3161984459055587
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,600000.0,0.0,600000.0,
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,26.704146170063247,0.0,26.704146170063247,
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,26.704146170063247,25.0,1.7041461700632468,6.816584680252987
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,855875.0,1475000.0,-619125.0,-41.97457627118644
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,600000.0,800000.0,-200000.0,-25.0
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,26.704146170063247,20.333333333333332,6.370812836729915,31.331866410147125
+Colombia (incluye Cali A.M.),General,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,26.704146170063247,22.857142857142858,3.847003312920389,16.830639494026702
+Colombia (incluye Cali A.M.),General,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,855875.0,488000.0,367875.0,75.38422131147541
+Colombia (incluye Cali A.M.),General,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,26.704146170063247,25.53191489361702,1.172231276446226,4.591239166081052
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,600000.0,525000.0,75000.0,14.285714285714286
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,450000.0,0.0,450000.0,
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,29.09090909090909,0.0,29.09090909090909,
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,29.09090909090909,26.700784335539854,2.3901247553692357,8.951515151515157
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,600000.0,736750.0,-136750.0,-18.561248727519512
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,450000.0,540000.0,-90000.0,-16.666666666666668
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,29.09090909090909,28.210526315789473,0.8803827751196174,3.120759837177748
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,29.09090909090909,26.31578947368421,2.775119617224881,10.545454545454549
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,600000.0,390000.0,210000.0,53.84615384615385
+Colombia (incluye Cali A.M.),Primaria o menos,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,29.09090909090909,25.641025641025642,3.4498834498834476,13.454545454545444
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,712500.0,813312.0,-100812.0,-12.395243153918791
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,530000.0,0.0,530000.0,
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,27.77777777777778,0.0,27.77777777777778,
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,27.77777777777778,25.641025641025642,2.1367521367521363,8.33333333333333
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,712500.0,1000000.0,-287500.0,-28.75
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,530000.0,610000.0,-80000.0,-13.114754098360656
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,27.77777777777778,23.362666458998522,4.415111318779257,18.898148148148145
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,27.77777777777778,26.68801708033093,1.0897606974468488,4.083333333333343
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,712500.0,490000.0,222500.0,45.40816326530612
+Colombia (incluye Cali A.M.),Secundaria y media,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,27.77777777777778,25.0,2.7777777777777786,11.111111111111112
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,1311750.0,1666666.6666666667,-354916.66666666674,-21.295
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,700000.0,0.0,700000.0,
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,25.862068965517242,0.0,25.862068965517242,
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,25.862068965517242,24.0,1.862068965517242,7.758620689655174
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,1311750.0,1800000.0,-488250.0,-27.125
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,700000.0,900000.0,-200000.0,-22.22222222222222
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,25.862068965517242,19.115585574104752,6.7464833914124895,35.29310344827587
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,25.862068965517242,22.641509433962263,3.2205595315549793,14.224137931034493
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,1311750.0,996750.0,315000.0,31.602708803611737
+Colombia (incluye Cali A.M.),"Técnico, tecnólogo o pregrado",Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,25.862068965517242,26.666666666666668,-0.8045977011494259,-3.017241379310347
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_income_per_capita_cop,COP,3771000.0,3900000.0,-129000.0,-3.3076923076923075
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_effective_payment_cop,COP,1300000.0,0.0,1300000.0,
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_effective_burden_percent,percentage points,17.857142857142858,0.0,17.857142857142858,
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios con vivienda pagada,median_equivalent_burden_percent,percentage points,17.857142857142858,18.095238095238095,-0.23809523809523725,-1.315789473684206
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_income_per_capita_cop,COP,3771000.0,4550000.0,-779000.0,-17.12087912087912
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_effective_payment_cop,COP,1300000.0,1800000.0,-500000.0,-27.77777777777778
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_effective_burden_percent,percentage points,17.857142857142858,16.39344262295082,1.4637002341920393,8.928571428571441
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Propietarios que pagan su vivienda,median_equivalent_burden_percent,percentage points,17.857142857142858,17.427385892116185,0.42975696502667304,2.465986394557814
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Otras formas de tenencia,median_income_per_capita_cop,COP,3771000.0,2666666.6666666665,1104333.3333333335,41.41250000000001
+Colombia (incluye Cali A.M.),Postgrado,Arrendatarios,Otras formas de tenencia,median_equivalent_burden_percent,percentage points,17.857142857142858,20.0,-2.1428571428571423,-10.714285714285712

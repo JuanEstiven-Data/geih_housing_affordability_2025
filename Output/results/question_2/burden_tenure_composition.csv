@@ -1,0 +1,9 @@
+﻿geography,burden_group,tenure_group,sample_household_months,average_monthly_households,share_within_burden_group_percent
+Cali A.M.,Carga <= 30%,Propietarios que pagan su vivienda,406,26499.39305346425,9.775048012931775
+Cali A.M.,Carga <= 30%,Arrendatarios,2875,244592.810467247,90.22495198706821
+Cali A.M.,Carga > 30%,Propietarios que pagan su vivienda,110,8301.133809509167,4.231885787882295
+Cali A.M.,Carga > 30%,Arrendatarios,2171,187855.715065734,95.76811421211772
+Colombia (incluye Cali A.M.),Carga <= 30%,Propietarios que pagan su vivienda,6351,546305.3033281683,11.474347141589371
+Colombia (incluye Cali A.M.),Carga <= 30%,Arrendatarios,66239,4214796.104768997,88.52565285841064
+Colombia (incluye Cali A.M.),Carga > 30%,Propietarios que pagan su vivienda,2757,228637.4011994333,6.907322832668161
+Colombia (incluye Cali A.M.),Carga > 30%,Arrendatarios,50787,3081435.209249487,93.09267716733183

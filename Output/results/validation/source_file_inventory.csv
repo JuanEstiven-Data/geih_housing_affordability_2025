@@ -1,0 +1,193 @@
+﻿month,file_format,folder,module,file_name,exists,size_bytes,duplicate_matches
+1,sav,01_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,192728874,0
+1,sav,01_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58067456,0
+1,sav,01_2025_sav,labor_force,Fuerza de trabajo.SAV,True,236198292,0
+1,sav,01_2025_sav,migration,Migración.SAV,True,93922416,0
+1,sav,01_2025_sav,not_employed,No ocupados.SAV,True,33589555,0
+1,sav,01_2025_sav,employed,Ocupados.SAV,True,1016399036,0
+1,sav,01_2025_sav,other_work,Otras formas de trabajo.SAV,True,211977655,0
+1,sav,01_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80033553,0
+1,csv,01_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9346248,0
+1,csv,01_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2954137,0
+1,csv,01_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5050212,0
+1,csv,01_2025_csv,migration,Migración.CSV,True,7143248,0
+1,csv,01_2025_csv,not_employed,No ocupados.CSV,True,2573877,0
+1,csv,01_2025_csv,employed,Ocupados.CSV,True,9915660,0
+1,csv,01_2025_csv,other_work,Otras formas de trabajo.CSV,True,10156452,0
+1,csv,01_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6222263,0
+2,sav,02_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,193001514,0
+2,sav,02_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58558688,0
+2,sav,02_2025_sav,labor_force,Fuerza de trabajo.SAV,True,237796980,0
+2,sav,02_2025_sav,migration,Migración.SAV,True,94055280,0
+2,sav,02_2025_sav,not_employed,No ocupados.SAV,True,32901043,0
+2,sav,02_2025_sav,employed,Ocupados.SAV,True,1048482908,0
+2,sav,02_2025_sav,other_work,Otras formas de trabajo.SAV,True,213412375,0
+2,sav,02_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80575233,0
+2,csv,02_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9362700,0
+2,csv,02_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2979811,0
+2,csv,02_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5057826,0
+2,csv,02_2025_csv,migration,Migración.CSV,True,7156224,0
+2,csv,02_2025_csv,not_employed,No ocupados.CSV,True,2505992,0
+2,csv,02_2025_csv,employed,Ocupados.CSV,True,10215387,0
+2,csv,02_2025_csv,other_work,Otras formas de trabajo.CSV,True,10231936,0
+2,csv,02_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6264438,0
+3,sav,03_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,193370714,0
+3,sav,03_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58269728,0
+3,sav,03_2025_sav,labor_force,Fuerza de trabajo.SAV,True,237517428,0
+3,sav,03_2025_sav,migration,Migración.SAV,True,94235200,0
+3,sav,03_2025_sav,not_employed,No ocupados.SAV,True,32478547,0
+3,sav,03_2025_sav,employed,Ocupados.SAV,True,1057813788,0
+3,sav,03_2025_sav,other_work,Otras formas de trabajo.SAV,True,213161495,0
+3,sav,03_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80480513,0
+3,csv,03_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9381371,0
+3,csv,03_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2968230,0
+3,csv,03_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5048505,0
+3,csv,03_2025_csv,migration,Migración.CSV,True,7166888,0
+3,csv,03_2025_csv,not_employed,No ocupados.CSV,True,2469272,0
+3,csv,03_2025_csv,employed,Ocupados.CSV,True,10317815,0
+3,csv,03_2025_csv,other_work,Otras formas de trabajo.CSV,True,10221153,0
+3,csv,03_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6271017,0
+4,sav,04_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,193853514,0
+4,sav,04_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58414208,0
+4,sav,04_2025_sav,labor_force,Fuerza de trabajo.SAV,True,237338340,0
+4,sav,04_2025_sav,migration,Migración.SAV,True,94470480,0
+4,sav,04_2025_sav,not_employed,No ocupados.SAV,True,32369011,0
+4,sav,04_2025_sav,employed,Ocupados.SAV,True,1059356972,0
+4,sav,04_2025_sav,other_work,Otras formas de trabajo.SAV,True,213000775,0
+4,sav,04_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80419833,0
+4,csv,04_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9410440,0
+4,csv,04_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2974209,0
+4,csv,04_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5052551,0
+4,csv,04_2025_csv,migration,Migración.CSV,True,7181089,0
+4,csv,04_2025_csv,not_employed,No ocupados.CSV,True,2452548,0
+4,csv,04_2025_csv,employed,Ocupados.CSV,True,10335723,0
+4,csv,04_2025_csv,other_work,Otras formas de trabajo.CSV,True,10212252,0
+4,csv,04_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6251755,0
+5,sav,05_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,194330634,0
+5,sav,05_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58770592,0
+5,sav,05_2025_sav,labor_force,Fuerza de trabajo.SAV,True,238784148,0
+5,sav,05_2025_sav,migration,Migración.SAV,True,94702992,0
+5,sav,05_2025_sav,not_employed,No ocupados.SAV,True,32222963,0
+5,sav,05_2025_sav,employed,Ocupados.SAV,True,1075255356,0
+5,sav,05_2025_sav,other_work,Otras formas de trabajo.SAV,True,214298295,0
+5,sav,05_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80909713,0
+5,csv,05_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9437263,0
+5,csv,05_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2993111,0
+5,csv,05_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5077360,0
+5,csv,05_2025_csv,migration,Migración.CSV,True,7211022,0
+5,csv,05_2025_csv,not_employed,No ocupados.CSV,True,2445836,0
+5,csv,05_2025_csv,employed,Ocupados.CSV,True,10499695,0
+5,csv,05_2025_csv,other_work,Otras formas de trabajo.CSV,True,10278099,0
+5,csv,05_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6289663,0
+6,sav,06_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,192726034,0
+6,sav,06_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58616480,0
+6,sav,06_2025_sav,labor_force,Fuerza de trabajo.SAV,True,237858132,0
+6,sav,06_2025_sav,migration,Migración.SAV,True,93921032,0
+6,sav,06_2025_sav,not_employed,No ocupados.SAV,True,32273819,0
+6,sav,06_2025_sav,employed,Ocupados.SAV,True,1066247468,0
+6,sav,06_2025_sav,other_work,Otras formas de trabajo.SAV,True,213467255,0
+6,sav,06_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80595953,0
+6,csv,06_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9363114,0
+6,csv,06_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2987592,0
+6,csv,06_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5066025,0
+6,csv,06_2025_csv,migration,Migración.CSV,True,7144988,0
+6,csv,06_2025_csv,not_employed,No ocupados.CSV,True,2447266,0
+6,csv,06_2025_csv,employed,Ocupados.CSV,True,10415295,0
+6,csv,06_2025_csv,other_work,Otras formas de trabajo.CSV,True,10234181,0
+6,csv,06_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6265484,0
+7,sav,07_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,194373234,0
+7,sav,07_2025_sav,household,Datos del hogar y la vivienda.SAV,True,59119752,0
+7,sav,07_2025_sav,labor_force,Fuerza de trabajo.SAV,True,238644372,0
+7,sav,07_2025_sav,migration,Migración.SAV,True,94723752,0
+7,sav,07_2025_sav,not_employed,No ocupados.SAV,True,31925651,0
+7,sav,07_2025_sav,employed,Ocupados.SAV,True,1082289404,0
+7,sav,07_2025_sav,other_work,Otras formas de trabajo.SAV,True,214172855,0
+7,sav,07_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80862353,0
+7,csv,07_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9437713,0
+7,csv,07_2025_csv,household,Datos del hogar y la vivienda.CSV,True,3011937,0
+7,csv,07_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5078851,0
+7,csv,07_2025_csv,migration,Migración.CSV,True,7209728,0
+7,csv,07_2025_csv,not_employed,No ocupados.CSV,True,2422461,0
+7,csv,07_2025_csv,employed,Ocupados.CSV,True,10572142,0
+7,csv,07_2025_csv,other_work,Otras formas de trabajo.CSV,True,10271737,0
+7,csv,07_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6285587,0
+8,sav,08_2025_sav,demographics,"Características generales, seguridad social en salud y  educación.SAV",True,194773674,0
+8,sav,08_2025_sav,household,Datos del hogar y la vivienda.SAV,True,59271456,0
+8,sav,08_2025_sav,labor_force,Fuerza de trabajo.SAV,True,239347620,0
+8,sav,08_2025_sav,migration,Migración.SAV,True,94918896,0
+8,sav,08_2025_sav,not_employed,No ocupados.SAV,True,32132987,0
+8,sav,08_2025_sav,employed,Ocupados.SAV,True,1082361180,0
+8,sav,08_2025_sav,other_work,Otras formas de trabajo.SAV,True,214803975,0
+8,sav,08_2025_sav,other_income,otros ingresos e impuestos.SAV,True,81100633,0
+8,csv,08_2025_csv,demographics,"Características generales, seguridad social en salud y  educación.CSV",True,9458304,0
+8,csv,08_2025_csv,household,Datos del hogar y la vivienda.CSV,True,3019879,0
+8,csv,08_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5084631,0
+8,csv,08_2025_csv,migration,Migración.CSV,True,7221378,0
+8,csv,08_2025_csv,not_employed,No ocupados.CSV,True,2434595,0
+8,csv,08_2025_csv,employed,Ocupados.CSV,True,10567866,0
+8,csv,08_2025_csv,other_work,Otras formas de trabajo.CSV,True,10300933,0
+8,csv,08_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6299969,0
+9,sav,09_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,193881914,0
+9,sav,09_2025_sav,household,Datos del hogar y la vivienda.SAV,True,59066776,0
+9,sav,09_2025_sav,labor_force,Fuerza de trabajo.SAV,True,238264356,0
+9,sav,09_2025_sav,migration,Migración.SAV,True,94484320,0
+9,sav,09_2025_sav,not_employed,No ocupados.SAV,True,31766563,0
+9,sav,09_2025_sav,employed,Ocupados.SAV,True,1083545484,0
+9,sav,09_2025_sav,other_work,Otras formas de trabajo.SAV,True,213831815,0
+9,sav,09_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,80733593,0
+9,csv,09_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9413460,0
+9,csv,09_2025_csv,household,Datos del hogar y la vivienda.CSV,True,3011538,0
+9,csv,09_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5059387,0
+9,csv,09_2025_csv,migration,Migración.CSV,True,7192068,0
+9,csv,09_2025_csv,not_employed,No ocupados.CSV,True,2408166,0
+9,csv,09_2025_csv,employed,Ocupados.CSV,True,10578328,0
+9,csv,09_2025_csv,other_work,Otras formas de trabajo.CSV,True,10253485,0
+9,csv,09_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6265986,0
+10,sav,10_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,195151394,0
+10,sav,10_2025_sav,household,Datos del hogar y la vivienda.SAV,True,59668776,0
+10,sav,10_2025_sav,labor_force,Fuerza de trabajo.SAV,True,240631812,0
+10,sav,10_2025_sav,migration,Migración.SAV,True,95102968,0
+10,sav,10_2025_sav,not_employed,No ocupados.SAV,True,31666155,0
+10,sav,10_2025_sav,employed,Ocupados.SAV,True,1105760156,0
+10,sav,10_2025_sav,other_work,Otras formas de trabajo.SAV,True,215956455,0
+10,sav,10_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,81535753,0
+10,csv,10_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9476061,0
+10,csv,10_2025_csv,household,Datos del hogar y la vivienda.CSV,True,3044720,0
+10,csv,10_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5115806,0
+10,csv,10_2025_csv,migration,Migración.CSV,True,7243308,0
+10,csv,10_2025_csv,not_employed,No ocupados.CSV,True,2407874,0
+10,csv,10_2025_csv,employed,Ocupados.CSV,True,10813462,0
+10,csv,10_2025_csv,other_work,Otras formas de trabajo.CSV,True,10365831,0
+10,csv,10_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6330873,0
+11,sav,11_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,194787874,0
+11,sav,11_2025_sav,household,Datos del hogar y la vivienda.SAV,True,59548376,0
+11,sav,11_2025_sav,labor_force,Fuerza de trabajo.SAV,True,240295476,0
+11,sav,11_2025_sav,migration,Migración.SAV,True,94925816,0
+11,sav,11_2025_sav,not_employed,No ocupados.SAV,True,31393619,0
+11,sav,11_2025_sav,employed,Ocupados.SAV,True,1110497372,0
+11,sav,11_2025_sav,other_work,Otras formas de trabajo.SAV,True,215654615,0
+11,sav,11_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,81421793,0
+11,csv,11_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9462823,0
+11,csv,11_2025_csv,household,Datos del hogar y la vivienda.CSV,True,3037370,0
+11,csv,11_2025_csv,labor_force,Fuerza de trabajo.CSV,True,5104509,0
+11,csv,11_2025_csv,migration,Migración.CSV,True,7231929,0
+11,csv,11_2025_csv,not_employed,No ocupados.CSV,True,2378046,0
+11,csv,11_2025_csv,employed,Ocupados.CSV,True,10853197,0
+11,csv,11_2025_csv,other_work,Otras formas de trabajo.CSV,True,10342730,0
+11,csv,11_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6315956,0
+12,sav,12_2025_sav,demographics,"Características generales, seguridad social en salud y educación.SAV",True,189042554,0
+12,sav,12_2025_sav,household,Datos del hogar y la vivienda.SAV,True,58187856,0
+12,sav,12_2025_sav,labor_force,Fuerza de trabajo.SAV,True,233538180,0
+12,sav,12_2025_sav,migration,Migración.SAV,True,92125984,0
+12,sav,12_2025_sav,not_employed,No ocupados.SAV,True,31108043,0
+12,sav,12_2025_sav,employed,Ocupados.SAV,True,1062838108,0
+12,sav,12_2025_sav,other_work,Otras formas de trabajo.SAV,True,209590375,0
+12,sav,12_2025_sav,other_income,Otros ingresos e impuestos.SAV,True,79132233,0
+12,csv,12_2025_csv,demographics,"Características generales, seguridad social en salud y educación.CSV",True,9180028,0
+12,csv,12_2025_csv,household,Datos del hogar y la vivienda.CSV,True,2966114,0
+12,csv,12_2025_csv,labor_force,Fuerza de trabajo.CSV,True,4982467,0
+12,csv,12_2025_csv,migration,Migración.CSV,True,7010816,0
+12,csv,12_2025_csv,not_employed,No ocupados.CSV,True,2362734,0
+12,csv,12_2025_csv,employed,Ocupados.CSV,True,10376923,0
+12,csv,12_2025_csv,other_work,Otras formas de trabajo.CSV,True,10044312,0
+12,csv,12_2025_csv,other_income,Otros ingresos e impuestos.CSV,True,6135327,0

@@ -1,0 +1,9 @@
+﻿geography,tenure_group,sample_household_months,average_monthly_households,share_of_full_universe_percent,estimable_sample,estimable_average_monthly_households,estimation_note
+Cali A.M.,Propietarios con vivienda pagada,2708,216058.08331869,25.866994784144868,0,0.0,Incluido en el universo; carga no estimada
+Cali A.M.,Propietarios que pagan su vivienda,558,38565.33988442925,4.617135495772544,516,34800.52686297342,Estimable cuando ingreso y pago son válidos
+Cali A.M.,Arrendatarios,5279,452653.667017733,54.19278864239968,5046,432448.52553298103,Estimable cuando ingreso y pago son válidos
+Cali A.M.,Otras formas de tenencia,1605,127988.40977887125,15.32308107768292,0,0.0,Incluido en el universo; pago efectivo n. d.
+Colombia (incluye Cali A.M.),Propietarios con vivienda pagada,89283,5434131.232222078,29.574193881210807,0,0.0,Incluido en el universo; carga no estimada
+Colombia (incluye Cali A.M.),Propietarios que pagan su vivienda,9435,809928.3585143021,4.40787630643917,9108,774942.7045276017,Estimable cuando ingreso y pago son válidos
+Colombia (incluye Cali A.M.),Arrendatarios,119414,7477928.633520287,40.697160555534566,117026,7296231.314018483,Estimable cuando ingreso y pago son válidos
+Colombia (incluye Cali A.M.),Otras formas de tenencia,74810,4652582.707580334,25.32076925681546,0,0.0,Incluido en el universo; pago efectivo n. d.

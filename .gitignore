@@ -1,0 +1,21 @@
+# Local Python environments
+.venv/
+.venv_invalid/
+
+# Original GEIH files (about 23 GB)
+Raw/
+
+# Python and notebook temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local plotting cache
+Output/.matplotlib/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Files separated for manual deletion
+_REMOVE_AFTER_REVIEW/

@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "full_universe_sample_household_months": 292942,
+  "estimable_sample_household_months": 126134,
+  "negative_residual_sample_household_months": 5686,
+  "negative_residual_weighted_shares_percent": {
+    "Cali A.M.": 4.695261128104742,
+    "Colombia (incluye Cali A.M.)": 3.7900904119346275
+  },
+  "negative_residual_materiality_cutoff_percent": 5.0,
+  "negative_residual_separate_subgroup": false,
+  "negative_residual_presentation": "Mention and audited table only",
+  "negative_residual_identity_check": true,
+  "negative_payment_exceeds_income_check": true,
+  "negative_burden_exceeds_100_check": true,
+  "threshold_denominator": "Tenants and homeowners paying, with complete positive income and a reported effective payment",
+  "fully_paid_homeowners_rule": "Included in the descriptive universe; effective burden not estimated",
+  "other_tenure_rule": "Included in the descriptive universe; effective payment and burden n. d.",
+  "country_reference": "Colombia includes Cali A.M.; estimates are not added.",
+  "negative_source_reconciliation": {
+    "status": "PASS",
+    "records_checked": 5686,
+    "sources": [
+      "Output/household_core_2025.parquet",
+      "Output/person_components_2025.parquet"
+    ],
+    "scope": "Reconstructed income, recorded payment, household size and negative sign; not respondent accuracy."
+  },
+  "outputs": {
+    "analytical_output": "Output\\results\\question_2\\analytical_households_question_2.parquet",
+    "coverage_output": "Output\\results\\question_2\\universe_coverage.csv",
+    "threshold_output": "Output\\results\\question_2\\burden_threshold_summary.csv",
+    "residual_output": "Output\\results\\question_2\\residual_income_summary.csv",
+    "composition_output": "Output\\results\\question_2\\burden_tenure_composition.csv",
+    "negative_audit_output": "Output\\results\\question_2\\negative_residual_audit.csv",
+    "negative_records_output": "Output\\results\\question_2\\negative_residual_records_audit.csv",
+    "chart_output": "Viz\\question_2_burden_and_residual.png"
+  }
+}

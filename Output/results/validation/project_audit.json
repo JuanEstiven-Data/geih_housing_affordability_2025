@@ -1,0 +1,120 @@
+{
+  "status": "PASS",
+  "audit_date": "2026-09-15",
+  "python": "3.12.14",
+  "package_versions": {
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "pyarrow": "25.0.1",
+    "pyreadstat": "1.3.6",
+    "reportlab": "4.5.1"
+  },
+  "scripts_executed": 8,
+  "household_month_rows": 292942,
+  "person_month_rows": 817550,
+  "negative_records_reconciled": 5686,
+  "checks": {
+    "unique_household_keys": true,
+    "unique_person_keys": true,
+    "twelve_months": true,
+    "positive_complete_weights": true,
+    "positive_household_size": true,
+    "no_unmatched_people_or_labor_overlap": true,
+    "same_universe_all_questions": true,
+    "consistent_household_income_all_questions": true,
+    "consistent_effective_payment_all_questions": true,
+    "consistent_annual_weight_all_questions": true,
+    "consistent_burden_questions_1_and_3": true,
+    "weights_divided_by_twelve": true,
+    "q2_positive_complete_income": true,
+    "q2_no_imputed_payment": true,
+    "q2_residual_per_capita_identity": true,
+    "q2_threshold_partition": true,
+    "q2_severe_nested_within_high_burden": true,
+    "q1_ordered_quartiles_effective_payment_cop": true,
+    "q1_ordered_quartiles_effective_burden_percent": true,
+    "q2_ordered_quartiles_residual_income_per_capita_cop": true,
+    "q3_ordered_quartiles_income_per_capita_cop": true,
+    "q3_ordered_quartiles_effective_payment_cop": true,
+    "q3_ordered_quartiles_effective_burden_percent": true,
+    "q3_ordered_quartiles_equivalent_cost_cop": true,
+    "q3_ordered_quartiles_equivalent_burden_percent": true,
+    "all_negative_records_reconciled": true,
+    "negative_audit_without_household_keys": true,
+    "all_direct_imports_declared": true,
+    "parquet_engine_declared": true,
+    "README.md_balanced_display_math": true,
+    "README.md_currency_escaped": true,
+    "README.md_no_absolute_local_paths": true,
+    "documented_path_Scripts/answer_question_1.py": true,
+    "documented_path_Output/results/question_1/": true,
+    "documented_path_Viz/question_1_effective_payment.png": true,
+    "documented_path_Deliverables/ficha_resultados_pregunta_1.pdf": true,
+    "documented_path_Scripts/answer_question_2.py": true,
+    "documented_path_Output/results/question_2/": true,
+    "documented_path_Viz/question_2_burden_and_residual.png": true,
+    "documented_path_Deliverables/ficha_resultados_pregunta_2.pdf": true,
+    "documented_path_Scripts/answer_question_3.py": true,
+    "documented_path_Output/results/question_3/": true,
+    "documented_path_Viz/question_3_tenure_gaps.png": true,
+    "documented_path_Viz/question_3_education_gaps.png": true,
+    "documented_path_Deliverables/ficha_resultados_pregunta_3.pdf": true,
+    "documented_path_Output/results/validation/": true,
+    "methodological_decisions_log.md_balanced_display_math": true,
+    "methodological_decisions_log.md_currency_escaped": true,
+    "methodological_decisions_log.md_no_absolute_local_paths": true,
+    "documented_path_Output/household_core_2025.parquet": true,
+    "documented_path_Output/person_components_2025.parquet": true,
+    "Output/results/validation/source_audit_summary.json": true,
+    "Output/results/validation/selected_modules_build_summary.json": true,
+    "Output/results/question_1/validation.json": true,
+    "Output/results/question_2/validation.json": true,
+    "Output/results/question_3/validation.json": true
+  },
+  "limitations": [
+    "No monetary utilities in the selected GEIH questions.",
+    "999999999 excluded operationally, without a documented meaning.",
+    "Current pesos; no within-year deflation.",
+    "5% negative-share cutoff is an editorial implementation choice.",
+    "Source reconciliation checks processing, not respondent accuracy.",
+    "Q1-Q3 are dispersion intervals, not confidence intervals."
+  ],
+  "pdf_validation": {
+    "Deliverables/ficha_resultados_pregunta_1.pdf": {
+      "pages": 1,
+      "visual_review": "PASS",
+      "readable_text": true
+    },
+    "Deliverables/ficha_resultados_pregunta_2.pdf": {
+      "pages": 2,
+      "visual_review": "PASS",
+      "readable_text": true
+    },
+    "Deliverables/ficha_resultados_pregunta_3.pdf": {
+      "pages": 2,
+      "visual_review": "PASS",
+      "readable_text": true
+    }
+  },
+  "git_preparation": {
+    "branch": "main",
+    "origin": "https://github.com/JuanEstiven-Data/geih_housing_affordability_2025.git",
+    "staged_file_count": 44,
+    "staged_payload_mib_before_git_compression": 49.11,
+    "largest_file_mib": 12.73,
+    "raw_environment_and_cleanup_excluded": true,
+    "whitespace_check": "PASS",
+    "no_unstaged_or_untracked_project_files_at_check": true,
+    "initial_commit_pending": true,
+    "commit_or_push_performed": false
+  },
+  "cleanup": {
+    "separated_to": "_REMOVE_AFTER_REVIEW/2026-09-15_global_audit",
+    "moved": [
+      "Scripts/__pycache__",
+      "Output/.matplotlib"
+    ],
+    "deleted": []
+  }
+}

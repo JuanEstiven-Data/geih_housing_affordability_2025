@@ -1,0 +1,5 @@
+﻿geography,burden_group,sample_household_months,average_monthly_households,negative_residual_sample,negative_residual_weighted_share_percent,q1_residual_income_per_capita_cop,median_residual_income_per_capita_cop,q3_residual_income_per_capita_cop
+Cali A.M.,Carga <= 30%,3281,271092.2035207113,0,0.0,618375.0,1005875.0,1720000.0
+Cali A.M.,Carga > 30%,2281,196156.84887524316,257,11.184194308982836,132500.0,308333.33333333326,625000.0
+Colombia (incluye Cali A.M.),Carga <= 30%,72590,4761101.408097165,0,0.0,552500.0,950000.0,1633333.3333333333
+Colombia (incluye Cali A.M.),Carga > 30%,53544,3310072.6104489206,5686,9.241633903794828,144700.0,300000.0,600000.0

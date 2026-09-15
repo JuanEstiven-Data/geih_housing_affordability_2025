@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "input_format": "csv",
+  "months_processed": 12,
+  "household_rows": 292942,
+  "person_rows": 817550,
+  "household_unit": "one household-month",
+  "person_unit": "one person-month",
+  "separate_outputs_reason": "Housing payments are measured at household level and income components are measured at person level.",
+  "household_output": "Output\\household_core_2025.parquet",
+  "person_output": "Output\\person_components_2025.parquet",
+  "validation_output": "Output\\results\\validation\\selected_modules_build.csv",
+  "income_status": "Components retained separately; household income not yet calculated."
+}

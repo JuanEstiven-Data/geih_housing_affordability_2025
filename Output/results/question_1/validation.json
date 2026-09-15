@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "national_sample_household_months": 292942,
+  "cali_sample_household_months": 10150,
+  "summary_rows": 8,
+  "coverage_rows": 8,
+  "income_incomplete_households": 3305,
+  "zero_or_negative_income_households": 4668,
+  "mortgage_nonresponse_codes_98_99": 113,
+  "rent_nonresponse_codes_98_99": 163,
+  "other_tenure_cash_payment_share_estimable": false,
+  "other_tenure_cash_payment_share_note": "The questionnaire does not ask these households for an effective payment. Their cash-payment proportion is not estimable.",
+  "nd_definition": "n. d. means no disponible. It marks information that the survey does not collect or cannot estimate; it is not a numeric zero.",
+  "summary_statistics": "weighted Q1, median and Q3",
+  "effective_payment_definition": "P5100 for homeowners paying, P5140 for tenants, zero rent or mortgage instalment for fully paid homeowners, and n. d. for other tenure",
+  "utilities_included": false,
+  "utilities_limitation": "GEIH records access to some utilities but not their monetary payments.",
+  "country_reference": "Colombia includes Cali A.M.; results are not added together.",
+  "income_value_999999999_records": {
+    "P7500S1A1": 1,
+    "P7500S2A1": 1
+  },
+  "income_value_999999999_total": 2,
+  "income_value_999999999_interpretation": "Undocumented extreme value treated operationally as missing; it is not assigned the documented meanings of codes 98 or 99.",
+  "analytical_output": "Output\\results\\question_1\\analytical_households_question_1.parquet",
+  "summary_output": "Output\\results\\question_1\\effective_payment_summary.csv",
+  "coverage_output": "Output\\results\\question_1\\payment_coverage.csv",
+  "chart_output": "Viz\\question_1_effective_payment.png"
+}
